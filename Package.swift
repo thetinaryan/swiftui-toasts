@@ -10,7 +10,7 @@ let package = Package(
       targets: ["Toasts"])
   ],
   dependencies: [
-    .package(url: "https://github.com/sunghyun-k/swiftui-window-overlay.git", from: "1.0.2")
+    .package(url: "https://github.com/thetinaryan/swiftui-window-overlay.git", from: "1.0.2")
   ],
   targets: [
     .target(
